@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-listing-website-Using-React/static/css/main.77442376.css",
+    "main.js": "/Movie-listing-website-Using-React/static/js/main.6aab9aba.js",
+    "index.html": "/Movie-listing-website-Using-React/index.html",
+    "main.77442376.css.map": "/Movie-listing-website-Using-React/static/css/main.77442376.css.map",
+    "main.6aab9aba.js.map": "/Movie-listing-website-Using-React/static/js/main.6aab9aba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77442376.css",
+    "static/js/main.6aab9aba.js"
+  ]
+}
